@@ -1,3 +1,3 @@
 # silver-fox-source
 
-react source for sample portfolion website
+react portfolio website based on json data
